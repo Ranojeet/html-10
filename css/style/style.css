@@ -1,0 +1,17 @@
+
+.text-cyan{
+    color: cyan;
+}
+.text-gold{
+    color: gold;
+}
+.bg-salmon{
+    background-color: salmon;
+}
+td{
+    width: 110px;
+    background-color: salmon;
+}
+a :hover{
+    color: cyan;
+}
